@@ -18,3 +18,12 @@
 - Run the application 
 
   `ng serve`
+
+- Install json-server to serve the housing locations data
+
+  `npm install -g json-server`
+
+- Run the server to serve the locations data
+
+  `json-server --watch db.json`
+
